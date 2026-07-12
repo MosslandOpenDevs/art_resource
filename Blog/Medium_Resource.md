@@ -1,4 +1,6 @@
-# ## Medium Art Assets
+# Mossland Blog · Medium 아트 애셋
+
+모스랜드 [Medium 블로그](https://medium.com/mossland-blog) 게시글에 사용된 대표 이미지·썸네일 등 아트 애셋을 게시 날짜순으로 정리한 문서입니다.
 
 ## 2023년 8월 7일
 
@@ -41,7 +43,7 @@
 ## 2023년 8월 16일
 
 - 메타버스 모스랜드 <해커톤> 개최!
-- 
+
 ![image](https://github.com/mossland/art_resource/assets/109493423/fc913f01-bd90-40e1-b0b3-52c0b7f4e444)
 
 
