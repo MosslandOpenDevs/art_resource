@@ -2,6 +2,10 @@
 
 # ArtResource 제작 로그 · Art Resource Log
 
+<!-- opendevs-badges:start -->
+[![Repository: MosslandOpenDevs](https://img.shields.io/badge/Repository-MosslandOpenDevs-64748b?style=flat)](https://github.com/MosslandOpenDevs/art_resource)
+<!-- opendevs-badges:end -->
+
 모스랜드(Mossland) 프로젝트에서 제작된 아트 리소스를 정리하고 공개하는 저장소입니다. 모스랜드 서비스에 사용되었거나 연구 목적으로 만들어진 각종 아트 리소스를 한곳에 모아, 새로운 모스랜드 프로젝트에서 쉽게 재활용할 수 있도록 하는 것을 목적으로 합니다.
 
 This repository organizes and discloses the art resources created across Mossland projects. Its goal is to collect the various art resources used in Mossland services or produced for research so that they can be easily reused in future Mossland projects.
